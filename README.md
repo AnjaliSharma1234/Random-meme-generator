@@ -13,8 +13,7 @@ This is motivated by [Scrimba](https://scrimba.com/).
 
 ## Tutorial Blog Post
 
-The following is my tutorial blog post on ["Learn React by building an App — React Functionalities Explained"](https://medium.com/mobile-web-dev/learn-react-by-building-a-to-do-app-react-functionalities-explained-74f466e9396)
-Follow the instructions to get started.
+The following is my tutorial blog post on ["Learn React by building an App — React Functionalities Explained"](https://medium.com/mobile-web-dev/learn-react-by-building-a-to-do-app-react-functionalities-explained-74f466e9396). Follow the instructions, fork this repo and build your own meme generator.
 
 ## Project Admin
 
