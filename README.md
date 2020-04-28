@@ -2,7 +2,7 @@
 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/AnjaliSharma1234/Random-meme-generator/issues) [![GitHub top language](https://img.shields.io/github/languages/top/AnjaliSharma1234/Random-meme-generator?color=yellow&logo=javascript)](https://github.com/AnjaliSharma1234/Random-meme-generator)
 
-A random meme generator app built in ReactJS. It is a web app fetching data from an API with random mem images and have this option of adding a top text and a bottom text to it.
+A random meme generator app built in ReactJS. It is a web app fetching data from an API with random meme images and have the option of adding a top text and a bottom text to it.
 
 This is motivated by [Scrimba](https://scrimba.com/).
 
