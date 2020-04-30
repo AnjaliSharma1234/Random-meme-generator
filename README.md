@@ -1,8 +1,8 @@
 # Random Meme Generator
 
-[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/AnjaliSharma1234/Random-meme-generator/issues) [![GitHub top language](https://img.shields.io/github/languages/top/AnjaliSharma1234/Random-meme-generator?color=yellow&logo=javascript)](https://github.com/AnjaliSharma1234/Random-meme-generator)
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/AnjaliSharma1234/Random-meme-generator/issues) [![GitHub stars](https://img.shields.io/github/stars/AnjaliSharma1234/Random-meme-generator.svg?logo=github)](https://github.com/AnjaliSharma1234/Random-meme-generator/stargazers) [![GitHub forks](https://img.shields.io/github/forks/AnjaliSharma1234/SocialMediaProfileLauncher.svg?logo=github&color=teal)](https://github.com/AnjaliSharma1234/Random-meme-generator/network) [![GitHub top language](https://img.shields.io/github/languages/top/AnjaliSharma1234/Random-meme-generator?color=yellow&logo=javascript)](https://github.com/AnjaliSharma1234/Random-meme-generator)
 
-A random meme generator app built in ReactJS. It is a web app fetching data from an API with random meme images and have the option of adding a top text and a bottom text to it.
+A customised meme generator app built in ReactJS. It is a web app fetching data from an API with random meme images and have the option of adding a top text and a bottom text to it.
 
 This is motivated by [Scrimba](https://scrimba.com/).
 
